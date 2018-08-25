@@ -1,0 +1,31 @@
+Create dating app
+
+Include:
+
+-	An About Page designed to find your mate
+
+Page One
+-   Jumbotron (Friend Finder)
+-   Square box shaded out
+-   a facebook "f" in the left corner - ?? ONLY THING NEEDED
+-   Text that says, (Answer a few basic questions. Then find the friend with the greatest compatibility)
+-   A click button in a triangular box(Go To Survey)
+
+Page Two
+-	a section in which the user is prompted to enter information (name, photo link)
+
+-	questions with a drop-down button/ must be able to click on their answer between 1-5
+
+-	a large submit button at the bottom
+
+-	a prompt to tell user to enter all information
+
+-	a friend-finder-fsf.herokuapp.com that says (prompt) “Please fill out all fields before submitting!” with a button to click on for “ok”
+
+-	once all fields are entered/chosen, need a return reply with titled “Best Match” and a word. Close button placed on bottom right 
+
+-	click on submit button more than once will prompt a name
+
+
+
+
